@@ -71,3 +71,4 @@ build/
 # Unity Terrain Sample Assets (huge, re-downloadable)
 Assets/Imported Assets/TerrainSampleAssets/
 Assets/**/TerrainSampleAssets/
+Assets/TextMesh Pro
